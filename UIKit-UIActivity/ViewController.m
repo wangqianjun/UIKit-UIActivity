@@ -110,6 +110,8 @@
                 [[MapActivity alloc]init]
                                            ];
         UIActivityViewController *avc = [[UIActivityViewController alloc]initWithActivityItems:activityItems applicationActivities:applicationActivities];
+        avc.excludedActivityTypes = @[UIActivityTypeAssignToContact, UIActivityTypeCopyToPasteboard, UIActivityTypePostToFacebook];
+        
         [self presentViewController:avc animated:YES completion:NULL];
     }
 }

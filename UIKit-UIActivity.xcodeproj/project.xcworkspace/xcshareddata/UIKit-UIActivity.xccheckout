@@ -10,29 +10,29 @@
 	<string>UIKit-UIActivity</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>DB248A78-8428-4679-A9B2-5B31A1CA7DC3</key>
+		<key>112A93CFCA20FEB56F04060431B714767EB1542F</key>
 		<string>https://github.com/wangqianjun/UIKit-UIActivity.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>UIKit-UIActivity.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>DB248A78-8428-4679-A9B2-5B31A1CA7DC3</key>
+		<key>112A93CFCA20FEB56F04060431B714767EB1542F</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/wangqianjun/UIKit-UIActivity.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>DB248A78-8428-4679-A9B2-5B31A1CA7DC3</string>
+	<string>112A93CFCA20FEB56F04060431B714767EB1542F</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>DB248A78-8428-4679-A9B2-5B31A1CA7DC3</string>
+			<string>112A93CFCA20FEB56F04060431B714767EB1542F</string>
 			<key>IDESourceControlWCCName</key>
 			<string>UIKit-UIActivity</string>
 		</dict>
